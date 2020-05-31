@@ -1,4 +1,5 @@
-# vue-calculator
+# Vue Calculator
+Simple calculator proudly made with vue.js and tailwind.css
 
 ## Project setup
 ```
@@ -15,10 +16,3 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
