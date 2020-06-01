@@ -6,7 +6,7 @@
     </div>
     <Calculator />
     <div class="flex flex-col items-center -mt-24">
-      <p class="text-gray-500"><span class="text-gray-400">Tips:</span> Click on the visor to clear</p>
+      <p class="text-gray-500"><span class="text-gray-400">Tip:</span> Click on the display to clear</p>
       <p class="text-gray-400">Source code can be found on <a class="text-gray-500 cursor-pointer hover:text-gray-700 underline" href="https://github.com/hamorim">github</a></p>
     </div>
   </div>
